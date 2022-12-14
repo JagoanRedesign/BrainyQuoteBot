@@ -17,4 +17,4 @@ else:
     API_ID = 14672956
     API_HASH = "115e8242ea0423893160bb61a9e05eab"
     BOT_TOKEN = "5836700205:AAFN4MqEVqfmbuhVeCECXZ1K_lNRfwKCsJU"
-    DATABASE_URL = ""
+    DATABASE_URL = "postgresql://postgres:KtLaCeKSr0FZup72XUwn@containers-us-west-168.railway.app:7020/railway"
